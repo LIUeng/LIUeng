@@ -2,7 +2,7 @@
 
 <p>Welcome! I'm LIUeng, Frontend Developer Engineer from <b>HangZhou, China</b></p>
 
-## My Focus
+## 🔭 My Focus
 
 <p>📔 Full stack engineer</p>
 <p>📕 Focus on the technology community</p>
@@ -37,7 +37,7 @@
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=white" />
 </p>
 
-## 🔭 Github Status
+## 📈 Github Status
 
 ![LIUeng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIUeng&show_icons=true&hide_border=true&bg_color=FFE6E6&title_color=F7418F&icon_color=F7418F&text_color=F6995C)
 
