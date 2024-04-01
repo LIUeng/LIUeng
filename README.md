@@ -9,7 +9,7 @@
 <p>📗 Focus AI</p>
 <p>📘 Make career plans</p>
 
-## 🕹 My skills
+## 🕹 My Skills
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -42,5 +42,8 @@
 ![LIUeng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIUeng&show_icons=true&hide_border=true&bg_color=FFE6E6&title_color=F7418F&icon_color=F7418F&text_color=F6995C)
 
 ## 📝 Blogs
+
+- [Learning Docs](https://liueng.fun)
+- [Animation Collection](https://animation.liueng.fun)
 
 <p>⏰ Be in progress...</p>
