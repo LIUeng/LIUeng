@@ -2,14 +2,14 @@
 
 <p>Welcome! I'm LIUeng, Frontend Developer Engineer from <b>HangZhou, China</b></p>
 
-## 🔭 My Focus
+## 🔭 Doing
 
 <p>📔 Full stack engineer</p>
 <p>📕 Focus on the technology community</p>
-<p>📗 Focus AI</p>
+<p>📗 Focus AIGC</p>
 <p>📘 Make career plans</p>
 
-## 🕹 My Skills
+## 🕹 Skills
 
 <p>
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -39,9 +39,11 @@
 
 ## 📈 Github Status
 
+<p>Make a little progress every day</p>
+
 ![LIUeng's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LIUeng&show_icons=true&hide_border=true&bg_color=FFE6E6&title_color=F7418F&icon_color=F7418F&text_color=F6995C)
 
-## 📝 Blogs
+## 📝 Note
 
 - [Learning Docs](https://liueng.fun)
 - [Animation Collection](https://animation.liueng.fun)
